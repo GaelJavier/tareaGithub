@@ -8,7 +8,6 @@ var hola = function(solicitud,respuesta){
 	console.log("    ******");
     console.log("   ********");
     console.log("  ***********");
-
 }
 
 var servidor = http.createServer(hola);
